@@ -1,0 +1,16 @@
+transformers
+tensorflow
+torch
+jupyterlab
+tensorflow-hub
+tensorflow-text
+spacy
+numpy
+tqdm
+plotly
+cufflinks
+pandas
+sklearn
+sentencepiece
+rouge
+ipywidgets

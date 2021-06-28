@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+*.json
+*.gz
+.vscode/
+multi_cased_L-*
+squad_base
